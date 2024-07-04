@@ -1,3 +1,3 @@
 # Linear-algebra
 
-Python code to calculate linear algebra
+Python code to solve linear algebra problems
